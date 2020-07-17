@@ -36,6 +36,10 @@ body {
     color: #f2f2f2;
 }
 
+.aboutme img {
+    width: 150px;
+}
+
 .aboutme .title {
     font-size: 60px;
     width: 800px;
