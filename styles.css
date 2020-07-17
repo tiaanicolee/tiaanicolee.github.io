@@ -31,12 +31,16 @@ body {
     border: none;
 }
 
+.resume img {
+    width: 100%;
+}
+
 .aboutme {
     padding: 30px;
     color: #f2f2f2;
 }
 
-img {
+.aboutme img {
     width: 150px;
 }
 
